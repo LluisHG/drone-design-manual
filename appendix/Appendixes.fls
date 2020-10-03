@@ -1,0 +1,11 @@
+PWD /Users/Nacho/Desktop/LaTeX/appendix
+INPUT /usr/local/texlive/2015/texmf.cnf
+INPUT /usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT Appendixes.tex
+OUTPUT Appendixes.log
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+OUTPUT Appendixes.pdf
+INPUT /usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmti10.tfm

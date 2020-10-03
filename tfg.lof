@@ -1,0 +1,209 @@
+\select@language {english}
+\select@language {catalan}
+\select@language {catalan}
+\select@language {english}
+\select@language {english}
+\addvspace {15\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Types of wireless power transfer inside the EM spectrum\relax }}{5}{figure.caption.2}
+\addvspace {15\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Geometry for calculating the magnetic field at a point on the \textit {z} axis\relax }}{8}{figure.caption.4}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Magnetic field lines from transmitter to receiver coil\relax }}{9}{figure.caption.5}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Voltage and current behaviour inside a LC circuit\relax }}{12}{figure.caption.6}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Series resonance\relax }}{13}{figure.caption.7}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Series RLC circuit\relax }}{14}{figure.caption.8}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Impedance and reactance w.r.t. frequency}}}{14}{figure.caption.8}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Voltage gain in the resistor}}}{14}{figure.caption.8}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Parallel resonance\relax }}{14}{figure.caption.9}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Parallel RLC circuit\relax }}{15}{figure.caption.10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Impedance and reactance w.r.t. frequency}}}{15}{figure.caption.10}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Current gain in the resistor}}}{15}{figure.caption.10}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Modeling of a single magnetic coil\relax }}{15}{figure.caption.11}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Skin depth and resistance varying frequency for a fixed coil\relax }}{17}{figure.caption.12}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces General electric circuit\relax }}{20}{figure.caption.14}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Reflected impedance circuit schematic\relax }}{21}{figure.caption.15}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Equivalent impedance circuit schematic\relax }}{22}{figure.caption.16}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Compensation topologies\relax }}{23}{figure.caption.17}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {SS}}}{23}{figure.caption.17}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {SP}}}{23}{figure.caption.17}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {PS}}}{23}{figure.caption.17}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {PP}}}{23}{figure.caption.17}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Equivalent circuit impedance w.r.t frequency for SS topology\relax }}{25}{figure.caption.19}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Equivalent circuit impedance w.r.t frequency for SP topology\relax }}{25}{figure.caption.20}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Equivalent circuit impedance w.r.t frequency for PS topology\relax }}{26}{figure.caption.21}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Equivalent circuit impedance w.r.t frequency for PP topology\relax }}{26}{figure.caption.22}
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Efficiency for all topologies\relax }}{27}{figure.caption.23}
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Output power for all topologies\relax }}{27}{figure.caption.24}
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Output power for SS and SP topologies varying the load resistance\relax }}{28}{figure.caption.25}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$R_L = 100\Omega $}}}{28}{figure.caption.25}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$R_L = 1000\Omega $}}}{28}{figure.caption.25}
+\contentsline {figure}{\numberline {2.21}{\ignorespaces Output power for SS and SP topologies varying the load resistance\relax }}{28}{figure.caption.26}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {$R_L = 100\Omega $}}}{28}{figure.caption.26}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$R_L = 1000\Omega $}}}{28}{figure.caption.26}
+\contentsline {figure}{\numberline {2.22}{\ignorespaces Voltage transfer function over frequency for different systems\relax }}{30}{figure.caption.27}
+\contentsline {figure}{\numberline {2.23}{\ignorespaces Frequency band constraints\relax }}{32}{figure.caption.28}
+\contentsline {figure}{\numberline {2.24}{\ignorespaces Inductance w.r.t. wire diameter for fixed coil radius of 4 cm and different turns\relax }}{34}{figure.caption.31}
+\contentsline {figure}{\numberline {2.25}{\ignorespaces Calculated inductance for different number of turns and coil radii values\relax }}{35}{figure.caption.33}
+\contentsline {figure}{\numberline {2.26}{\ignorespaces Contour lines of the magnetic coupling obtained for different distances\relax }}{36}{figure.caption.34}
+\contentsline {figure}{\numberline {2.27}{\ignorespaces Flowchart of the algorithm to design the coil size\relax }}{38}{figure.caption.36}
+\addvspace {15\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Block diagram\relax }}{41}{figure.caption.37}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Transmitter circuit\relax }}{42}{figure.caption.38}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Crazyflie 2.0 features\relax }}{42}{figure.caption.39}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Crazyflie 2.0}}}{42}{figure.caption.39}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {CrazyRadio USB dongle}}}{42}{figure.caption.39}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Crazyflie's computer client\relax }}{43}{figure.caption.40}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Motor mount process design\relax }}{43}{figure.caption.41}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Crazyflie's battery size\relax }}{44}{figure.caption.42}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Plan and elevation views}}}{44}{figure.caption.42}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {3D model}}}{44}{figure.caption.42}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Real view image}}}{44}{figure.caption.42}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces TPS61088 design circuit\relax }}{45}{figure.caption.45}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Oscillator schematic\relax }}{46}{figure.caption.46}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Simplified transistor diagram\relax }}{48}{figure.caption.48}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Transmitter SMD design\relax }}{49}{figure.caption.51}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Transmitter circuit\relax }}{49}{figure.caption.52}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Thrust depending on the power level of the motors\relax }}{50}{figure.caption.54}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces SIngle voltage doubler stage\relax }}{51}{figure.caption.55}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces SOT-23 Package for HSMS-2850 Schottky diode\relax }}{51}{figure.caption.56}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Single voltage doubler stage\relax }}{52}{figure.caption.57}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces \textit {bq25504 EVM} schematic\relax }}{53}{figure.caption.59}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces \textit {eZ430-RF2500} debugging interface (left) and target board (right)\relax }}{54}{figure.caption.60}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Receiver circuit\relax }}{55}{figure.caption.61}
+\addvspace {15\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Experimental quality factor of model coils\relax }}{59}{figure.caption.64}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Measuring procedure\relax }}{62}{figure.caption.66}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Distance analysis}}}{62}{figure.caption.66}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Load analysis}}}{62}{figure.caption.66}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Nano-quadcopter's battery discharging profile\relax }}{63}{figure.caption.67}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Overal system measurement.\relax }}{63}{figure.caption.68}
+\addvspace {15\p@ }
+\addvspace {15\p@ }
+\changetoapp 
+\addvspace {15\p@ }
+\addvspace {10\p@ }
+\addvspace {15\p@ }
+\addvspace {10\p@ }
+\addvspace {15\p@ }
+\addvspace {10\p@ }
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Model A transmitter}}}{79}{subfigure.C.1.6}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Model A receiver}}}{79}{subfigure.C.1.6}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Model B transmitter}}}{79}{subfigure.C.1.6}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Model B receiver}}}{79}{subfigure.C.1.6}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Model C transmitter}}}{79}{subfigure.C.1.6}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Model C receiver}}}{79}{subfigure.C.1.6}
+\contentsline {figure}{\numberline {C.1}{\ignorespaces Inductance and resistance w.r.t. frequency\relax }}{80}{figure.caption.77}
+\contentsline {figure}{\numberline {C.2}{\ignorespaces Experimental quality factor\relax }}{80}{figure.caption.78}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Model D1}}}{80}{figure.caption.78}
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {Model D2}}}{80}{figure.caption.78}
+\addvspace {15\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Efficiency w.r.t. output current\relax }}{81}{figure.caption.79}
+\contentsline {figure}{\numberline {D.2}{\ignorespaces ULN2803 Darlington driver\relax }}{81}{figure.caption.80}
+\contentsline {figure}{\numberline {D.3}{\ignorespaces Transmitter circuit schematic\relax }}{82}{figure.caption.81}
+\contentsline {figure}{\numberline {D.4}{\ignorespaces Receiver circuit schematic\relax }}{83}{figure.caption.82}
+\addvspace {15\p@ }
+\addvspace {10\p@ }
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Functional block diagram}}}{85}{subfigure.E.1.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Top view}}}{85}{subfigure.E.1.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{85}{subfigure.E.1.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{85}{subfigure.E.1.2}
+\contentsline {figure}{\numberline {E.1}{\ignorespaces Efficiency w.r.t. distance for SS topology\relax }}{85}{figure.caption.84}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{85}{subfigure.E.2.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{85}{subfigure.E.2.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{85}{subfigure.E.2.2}
+\contentsline {figure}{\numberline {E.2}{\ignorespaces Output power w.r.t. distance for SS topology\relax }}{86}{figure.caption.86}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{86}{subfigure.E.3.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{86}{subfigure.E.3.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{86}{subfigure.E.3.2}
+\contentsline {figure}{\numberline {E.3}{\ignorespaces Efficiency w.r.t. distance for SP topology\relax }}{86}{figure.caption.88}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{87}{subfigure.E.4.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{87}{subfigure.E.4.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{87}{subfigure.E.4.2}
+\contentsline {figure}{\numberline {E.4}{\ignorespaces Output power w.r.t. distance for SP topology\relax }}{87}{figure.caption.90}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{87}{subfigure.E.5.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{87}{subfigure.E.5.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{87}{subfigure.E.5.2}
+\contentsline {figure}{\numberline {E.5}{\ignorespaces Efficiency w.r.t. load resistance for SS topology\relax }}{88}{figure.caption.92}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{88}{subfigure.E.6.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{88}{subfigure.E.6.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{88}{subfigure.E.6.2}
+\contentsline {figure}{\numberline {E.6}{\ignorespaces Output power w.r.t. load resistance for SS topology\relax }}{88}{figure.caption.94}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{89}{subfigure.E.7.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{89}{subfigure.E.7.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{89}{subfigure.E.7.2}
+\contentsline {figure}{\numberline {E.7}{\ignorespaces Efficiency w.r.t. load resistance for SP topology\relax }}{89}{figure.caption.96}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{89}{subfigure.E.8.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{89}{subfigure.E.8.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{89}{subfigure.E.8.2}
+\contentsline {figure}{\numberline {E.8}{\ignorespaces Output power w.r.t. load resistance for SP topology\relax }}{90}{figure.caption.98}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{90}{subfigure.E.9.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{90}{subfigure.E.9.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{90}{subfigure.E.9.2}
+\contentsline {figure}{\numberline {E.9}{\ignorespaces Efficiency w.r.t. distance for SS topology\relax }}{90}{figure.caption.100}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{91}{subfigure.E.10.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{91}{subfigure.E.10.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{91}{subfigure.E.10.2}
+\contentsline {figure}{\numberline {E.10}{\ignorespaces Output power w.r.t. distance for SS topology\relax }}{91}{figure.caption.102}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{91}{subfigure.E.11.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{91}{subfigure.E.11.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{91}{subfigure.E.11.2}
+\contentsline {figure}{\numberline {E.11}{\ignorespaces Efficiency w.r.t. distance for SP topology\relax }}{92}{figure.caption.104}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{92}{subfigure.E.12.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{92}{subfigure.E.12.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{92}{subfigure.E.12.2}
+\contentsline {figure}{\numberline {E.12}{\ignorespaces Output power w.r.t. distance for SP topology\relax }}{92}{figure.caption.106}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{93}{subfigure.E.13.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{93}{subfigure.E.13.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{93}{subfigure.E.13.2}
+\contentsline {figure}{\numberline {E.13}{\ignorespaces Efficiency w.r.t. load resistance for SS topology\relax }}{93}{figure.caption.108}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{93}{subfigure.E.14.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{93}{subfigure.E.14.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{93}{subfigure.E.14.2}
+\contentsline {figure}{\numberline {E.14}{\ignorespaces Output power w.r.t. load resistance for SS topology\relax }}{94}{figure.caption.110}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{94}{subfigure.E.15.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{94}{subfigure.E.15.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{94}{subfigure.E.15.2}
+\contentsline {figure}{\numberline {E.15}{\ignorespaces Efficiency w.r.t. load resistance for SP topology\relax }}{94}{figure.caption.112}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{95}{subfigure.E.16.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{95}{subfigure.E.16.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{95}{subfigure.E.16.2}
+\contentsline {figure}{\numberline {E.16}{\ignorespaces Output power w.r.t. load resistance for SP topology\relax }}{95}{figure.caption.114}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{95}{subfigure.E.17.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{95}{subfigure.E.17.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{95}{subfigure.E.17.2}
+\contentsline {figure}{\numberline {E.17}{\ignorespaces Efficiency w.r.t. distance for SS topology\relax }}{96}{figure.caption.116}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{96}{subfigure.E.18.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{96}{subfigure.E.18.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{96}{subfigure.E.18.2}
+\contentsline {figure}{\numberline {E.18}{\ignorespaces Output power w.r.t. distance for SS topology\relax }}{96}{figure.caption.118}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{97}{subfigure.E.19.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{97}{subfigure.E.19.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{97}{subfigure.E.19.2}
+\contentsline {figure}{\numberline {E.19}{\ignorespaces Efficiency w.r.t. distance for SP topology\relax }}{97}{figure.caption.120}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{97}{subfigure.E.20.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{97}{subfigure.E.20.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{97}{subfigure.E.20.2}
+\contentsline {figure}{\numberline {E.20}{\ignorespaces Output power w.r.t. distance for SP topology\relax }}{98}{figure.caption.122}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{98}{subfigure.E.21.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{98}{subfigure.E.21.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{98}{subfigure.E.21.2}
+\contentsline {figure}{\numberline {E.21}{\ignorespaces Efficiency w.r.t. load resistance for SS topology\relax }}{98}{figure.caption.124}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{99}{subfigure.E.22.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{99}{subfigure.E.22.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{99}{subfigure.E.22.2}
+\contentsline {figure}{\numberline {E.22}{\ignorespaces Output power w.r.t. load resistance for SS topology\relax }}{99}{figure.caption.126}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{99}{subfigure.E.23.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{99}{subfigure.E.23.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{99}{subfigure.E.23.2}
+\contentsline {figure}{\numberline {E.23}{\ignorespaces Efficiency w.r.t. load resistance for SP topology\relax }}{100}{figure.caption.128}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {f = 2 MHz}}}{100}{subfigure.E.24.2}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {f = 0.7 MHz}}}{100}{subfigure.E.24.2}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {f = 1 MHz}}}{100}{subfigure.E.24.2}
+\contentsline {figure}{\numberline {E.24}{\ignorespaces Output power w.r.t. load resistance for SP topology\relax }}{100}{figure.caption.130}
+\contentsline {figure}{\numberline {E.25}{\ignorespaces Experimental demonstration of the output power depending on the coil receiver radius\relax }}{101}{figure.caption.131}
+\addvspace {15\p@ }
+\addvspace {10\p@ }

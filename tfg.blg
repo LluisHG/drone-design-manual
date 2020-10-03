@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tfg.aux
+The style file: unsrturl.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: biblio.bib
+Warning--entry type for "github" isn't style-file defined
+--line 30 of file biblio.bib
+Warning--entry type for "regulators" isn't style-file defined
+--line 47 of file biblio.bib
+Warning--entry type for "batteryDischarge" isn't style-file defined
+--line 124 of file biblio.bib
+Warning--entry type for "skinDepth" isn't style-file defined
+--line 134 of file biblio.bib
+Warning--entry type for "crazyflie" isn't style-file defined
+--line 143 of file biblio.bib
+Warning--entry type for "Consortium" isn't style-file defined
+--line 153 of file biblio.bib
+Warning--entry type for "quartzCrystal" isn't style-file defined
+--line 217 of file biblio.bib
+Warning--entry type for "CopperLoss" isn't style-file defined
+--line 242 of file biblio.bib
+Warning--entry type for "aacResonance" isn't style-file defined
+--line 263 of file biblio.bib
+Warning--entry type for "Melliptical" isn't style-file defined
+--line 288 of file biblio.bib
+Warning--empty author and editor in 2009wireless
+Warning--empty author and editor in TechTalk
+Warning--empty institution in oscilador
+Warning--empty year in oscilador
+Warning--empty school in doubler2
+Warning--empty year in doubler2
+You've used 41 entries,
+            2522 wiz_defined-function locations,
+            833 strings with 12279 characters,
+and the built_in function-call counts, 13913 in all, are:
+= -- 1417
+> -- 366
+< -- 9
++ -- 127
+- -- 86
+* -- 685
+:= -- 1699
+add.period$ -- 148
+call.type$ -- 41
+change.case$ -- 30
+chr.to.int$ -- 0
+cite$ -- 47
+duplicate$ -- 484
+empty$ -- 1624
+format.name$ -- 86
+if$ -- 4030
+int.to.chr$ -- 0
+int.to.str$ -- 41
+missing$ -- 32
+newline$ -- 230
+num.names$ -- 33
+pop$ -- 345
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1161
+stack$ -- 0
+substring$ -- 426
+swap$ -- 172
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 6
+while$ -- 57
+width$ -- 43
+write$ -- 478
+(There were 16 warnings)

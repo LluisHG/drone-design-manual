@@ -1,0 +1,22 @@
+\cleardoublepage
+\phantomsection
+\chapter*{Conclusions}
+
+In this project has been tested the viability to transport energy by using an inductive system mounted in a nano-quadcopter. The insertion of the drone allows to extend the number of induction applications, as well as provide the project with a differential regarding to other works until present.
+
+% With this project it was tested the viability to transport energy via a resonant inductive system mounted in a nano-quadcopter. The selection of this type of energy transportation is due to the differential that is provided. 
+
+% To model the way to transfer energy, several theoretical electromagnetic principles are studied. Firstly, the understanding of the magnetic induction has supposed to determine the range where we are able to transferring energy, taking into account that the size of the system is constrained by the nano-quadcopter. 
+
+% In first instance, the estimated distance to transfer energy was up to one meter. The obtained results show that for low voltage levels, and using only the inductive system, the range is reduced until 10 cm. If the input voltage was increased, this distance will be incremented significantly. Thus, we can say that the objectives are achieved. The system tolerances prevent to 
+
+
+To perform an accurate model, several theoretical electromagnetic principles are presented in Chapter 2. Firstly, it is discussed how resonance is created. This knowledge of resonance lead us to the \textit{old}, because induction is more than a century old, and at the same time \textit{new} way of transfer energy: the resonant induction. Since the \textit{MIT} published in 2007 an article explaining the basis of resonant induction, several applications have been developing and commercialized. At the end of the Chapter, the multiple variables of the induction system and their effects are studied to predict the system's behaviour.
+
+The constraints of weight and size of the nano-quadcopter complicates the design and assembly of the transmitter circuit. It is also important to select correctly the needed components, owing to multiple converter stages, a bad choice means to lose almost all the remaining circuit efficiency.
+
+Using a restrictive drone, such as \textit{Crazyflie} facilitate the design and implementation of the inductive system in bigger quadcopters. Then, it would be possible to carry bigger inductances, and consequently to increase the magnetic flux and power levels at the receiver side. Although is not the most efficiency way to increase the transfer distance, with larger drones it will be possible to place greater batteries, or maybe a unique battery reserved only for power transfer. However, future improvements lie in enhancing the overall system efficiency using computational coil designs. These designs, with higher Q factors, would be implemented by using PCB coils or special wires, like \textit{Litz} wire, for instance.
+
+The induction system meet the requirements in terms of performance, allowing to charge small batteries up to distances of 10 cm and a power level up to milliwatts. Depending on the desire application, the system can either power directly the sensor or power a battery. This last option is desired when the sensor requires a current peak which the inductive system can not provide. As a demonstrative application, the system charges a supercapacitor. % SE PODRIA ALIMENTAR UNA RED DE SENSORES
+
+A future improvement could be the implementation of a PID controller to the \textit{Crazyflie}. Large coil sizes difficult the maneuverability, and depending on the size make prevent to fly.
