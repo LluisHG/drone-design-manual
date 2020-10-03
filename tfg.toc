@@ -1,102 +1,27 @@
-\select@language {english}
-\select@language {catalan}
-\select@language {catalan}
-\select@language {english}
-\select@language {english}
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Motivation of the Project}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Objectives}{1}{section.1.2}
-\contentsline {section}{\numberline {1.3}Brief History}{2}{section.1.3}
-\contentsline {section}{\numberline {1.4}Category for the Wireless Power Transfer Systems}{2}{section.1.4}
-\contentsline {section}{\numberline {1.5}Discussion}{3}{section.1.5}
-\contentsline {chapter}{\numberline {2}Modeling Magnetic Induction System}{7}{chapter.2}
-\contentsline {section}{\numberline {2.1}Magnetic Field}{7}{section.2.1}
-\contentsline {section}{\numberline {2.2}Magnetic Induction}{8}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Magnetic Flux}{8}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Induced EMF and Faraday's Law}{9}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Inductance}{9}{subsection.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.3.1}Self Inductance}{10}{subsubsection.2.2.3.1}
-\contentsline {subsubsection}{\numberline {2.2.3.2}Mutual inductance}{10}{subsubsection.2.2.3.2}
-\contentsline {section}{\numberline {2.3}Resonance}{11}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Energy Pendulum}{11}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Series Resonance}{13}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Parallel Resonance}{14}{subsection.2.3.3}
-\contentsline {section}{\numberline {2.4}Characterizing the Inductor}{14}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Coil Resistance}{16}{subsection.2.4.1}
-\contentsline {subsubsection}{\numberline {2.4.1.1}DC Resistance}{16}{subsubsection.2.4.1.1}
-\contentsline {subsubsection}{\numberline {2.4.1.2}AC Resistance}{16}{subsubsection.2.4.1.2}
-\contentsline {subsection}{\numberline {2.4.2}Coil Inductance}{18}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Coil Parasitic Capacitor}{18}{subsection.2.4.3}
-\contentsline {section}{\numberline {2.5}Coreless Transformer Modeling}{19}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Electrical Circuit}{19}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Compensation Topologies}{22}{subsection.2.5.2}
-\contentsline {subsubsection}{\numberline {2.5.2.1}SS topology}{24}{subsubsection.2.5.2.1}
-\contentsline {subsubsection}{\numberline {2.5.2.2}SP topology}{24}{subsubsection.2.5.2.2}
-\contentsline {subsubsection}{\numberline {2.5.2.3}PS topology}{25}{subsubsection.2.5.2.3}
-\contentsline {subsubsection}{\numberline {2.5.2.4}PP topology}{26}{subsubsection.2.5.2.4}
-\contentsline {subsubsection}{\numberline {2.5.2.5}Discussion}{27}{subsubsection.2.5.2.5}
-\contentsline {section}{\numberline {2.6}Design Considerations}{29}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Power Level}{29}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Quality Factor}{30}{subsection.2.6.2}
-\contentsline {subsection}{\numberline {2.6.3}Coupling Factor}{31}{subsection.2.6.3}
-\contentsline {subsection}{\numberline {2.6.4}Operating Frequency}{31}{subsection.2.6.4}
-\contentsline {subsection}{\numberline {2.6.5}Size and Weight}{33}{subsection.2.6.5}
-\contentsline {subsubsection}{\numberline {2.6.5.1}Coil Shape}{33}{subsubsection.2.6.5.1}
-\contentsline {subsubsection}{\numberline {2.6.5.2}Metal Conductor}{33}{subsubsection.2.6.5.2}
-\contentsline {subsubsection}{\numberline {2.6.5.3}Conductor Diameter}{34}{subsubsection.2.6.5.3}
-\contentsline {subsubsection}{\numberline {2.6.5.4}Number of turns}{35}{subsubsection.2.6.5.4}
-\contentsline {subsubsection}{\numberline {2.6.5.5}Coil radius}{35}{subsubsection.2.6.5.5}
-\contentsline {subsubsection}{\numberline {2.6.5.6}Weight}{37}{subsubsection.2.6.5.6}
-\contentsline {section}{\numberline {2.7}Detailed Designs}{37}{section.2.7}
-\contentsline {subsection}{\numberline {2.7.1}Discussion}{38}{subsection.2.7.1}
-\contentsline {chapter}{\numberline {3}Architecture and Design of the WPT System}{41}{chapter.3}
-\contentsline {section}{\numberline {3.1}Quadcopter}{41}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Controlling the \textit {Crazyflie}}{42}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Motor Mount Design}{43}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}Transmission System}{44}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Power Source}{44}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Voltage Regulator}{45}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Oscillator}{46}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Power Driver}{47}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Transmitter Circuit Assembly}{49}{subsection.3.2.5}
-\contentsline {section}{\numberline {3.3}Receiver system}{50}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Voltage Doubler}{51}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}DC-DC boost converter}{52}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Storage element}{53}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Application}{54}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Receiver Circuit Assembly}{54}{subsection.3.3.5}
-\contentsline {chapter}{\numberline {4}Experimental Results}{57}{chapter.4}
-\contentsline {section}{\numberline {4.1}Validations and Measurements}{57}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Resistance Estimation}{57}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Inductance Estimation}{58}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Quality Factor}{58}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Inductive System Performance}{59}{subsection.4.1.4}
-\contentsline {subsubsection}{\numberline {4.1.4.1}Previous considerations}{59}{subsubsection.4.1.4.1}
-\contentsline {subsubsection}{\numberline {4.1.4.2}Measurements methodology}{60}{subsubsection.4.1.4.2}
-\contentsline {subsubsection}{\numberline {4.1.4.3}Results}{61}{subsubsection.4.1.4.3}
-\contentsline {subsection}{\numberline {4.1.5}Overall System Performance}{61}{subsection.4.1.5}
-\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \sffamily \bfseries Conclusions}{65}{chapter*.71}
-\contentsline {chapter}{\relax \fontsize {14.4}{18}\selectfont \sffamily \bfseries Bibliography}{67}{chapter*.73}
+\babel@toc {english}{}
+\babel@toc {catalan}{}
+\babel@toc {catalan}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation of the Project}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Modeling Magnetic Induction System}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Architecture and Design of the WPT System}{5}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Experimental Results}{7}{chapter.4}%
+\contentsline {chapter}{\large \sffamily \bfseries Conclusions}{9}{chapter*.3}%
+\contentsline {chapter}{\large \sffamily \bfseries Bibliography}{11}{chapter*.5}%
 \changetoapp 
-\contentsline {chapter}{\numberline {A}Inductance Characterization}{73}{appendix.A}
-\contentsline {section}{\numberline {A.1}Inductance Estimation Table}{73}{section.A.1}
-\contentsline {section}{\numberline {A.2}Equivalent coil impedance}{73}{section.A.2}
-\contentsline {chapter}{\numberline {B}Model equations}{75}{appendix.B}
-\contentsline {section}{\numberline {B.1}Secondary capacitor in series}{75}{section.B.1}
-\contentsline {section}{\numberline {B.2}Secondary capacitor in parallel}{75}{section.B.2}
-\contentsline {section}{\numberline {B.3}Primary capacitor in series}{76}{section.B.3}
-\contentsline {section}{\numberline {B.4}Primary capacitor in parallel}{76}{section.B.4}
-\contentsline {chapter}{\numberline {C}Coils Experimental Results}{79}{appendix.C}
-\contentsline {section}{\numberline {C.1}Inductance and Resistance}{79}{section.C.1}
-\contentsline {section}{\numberline {C.2}Quality Factor}{80}{section.C.2}
-\contentsline {chapter}{\numberline {D}Circuit Schematics}{81}{appendix.D}
-\contentsline {section}{\numberline {D.1}Voltage Regulator}{81}{section.D.1}
-\contentsline {section}{\numberline {D.2}Power Driver}{81}{section.D.2}
-\contentsline {section}{\numberline {D.3}Transmitter}{82}{section.D.3}
-\contentsline {section}{\numberline {D.4}Receiver}{83}{section.D.4}
-\contentsline {chapter}{\numberline {E}Experimental Results}{85}{appendix.E}
-\contentsline {section}{\numberline {E.1}Model A}{85}{section.E.1}
-\contentsline {section}{\numberline {E.2}Model B}{90}{section.E.2}
-\contentsline {section}{\numberline {E.3}Model C}{95}{section.E.3}
-\contentsline {section}{\numberline {E.4}Output power for models D1 and D2}{100}{section.E.4}
-\contentsline {chapter}{\numberline {F}Programming Code}{103}{appendix.F}
+\contentsline {chapter}{\numberline {A}Inductance Characterization}{15}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Inductance Estimation Table}{15}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Equivalent coil impedance}{15}{section.A.2}%
+\contentsline {chapter}{\numberline {B}Model equations}{17}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Secondary capacitor in series}{17}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Secondary capacitor in parallel}{17}{section.B.2}%
+\contentsline {chapter}{\numberline {C}Coils Experimental Results}{19}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Inductance and Resistance}{19}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Quality Factor}{19}{section.C.2}%
+\contentsline {chapter}{\numberline {D}Circuit Schematics}{21}{appendix.D}%
+\contentsline {section}{\numberline {D.1}Voltage Regulator}{21}{section.D.1}%
+\contentsline {section}{\numberline {D.2}Power Driver}{21}{section.D.2}%
+\contentsline {section}{\numberline {D.3}Transmitter}{22}{section.D.3}%
+\contentsline {section}{\numberline {D.4}Receiver}{23}{section.D.4}%
