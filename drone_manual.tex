@@ -93,7 +93,7 @@
   pdfpagemode=UseOutlines,
 ]{hyperref} 
 
-
+\usepackage{layout}
 
 %% NOTA IMPORTANT!:
 %% Per tal que hyperef funcioni correctament amb els capitols o seccions no
@@ -118,7 +118,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%% Configuració de les dades i variables boleanes rellevants del document:
-\input{setup/dades.tex}  
+%\input{setup/dades.tex}  
 
 %%% Configuració de MACROS o ENTORNS (opcionals) definides per l'usuari:
 \input{setup/user-macros.tex}  
@@ -145,7 +145,7 @@
 
 \begin{document}
 \selectlanguage{catalan}
-\beforepreface  
+%\beforepreface  
 
 %% RESUM i OVERVIEW
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -155,25 +155,25 @@
 
 %%% Resum en català (o castellà)
 \selectlanguage{catalan}   
-\begin{resum}{10cm}
+%\begin{resum}{10cm}
   
-E
+%E
 
-\end{resum}
+%\end{resum}
 
 %%% Resum en anglès
 \selectlanguage{english}   
-\begin{overview}{11cm}
+%\begin{overview}{11cm}
 
 
-\end{overview}
+%\end{overview}
 
 
 % Tornar a l'idioma principal del document
 \selectlanguage{english}  
 % Amb aqueta comanda indiquem que ja s'han inclòs tots els apartats del prefaci del 
 % projecte o podem començar a incloure els capitols de la memòria
-\afterpreface
+%\afterpreface
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -190,7 +190,7 @@ E
 
 % NOTA: Si es vol incloure agraïments i/o glosari, fer-ho utilitzant 
 % \chapter*{} i incloure'ls abans la introducció
-
+\layout{}
 \input{chapters/introduction}
 \input{chapters/modeling}
 \input{chapters/subsystems}
@@ -259,7 +259,7 @@ E
 %% Recordeu que si tot el document (amb apèndixs) excedeix les 100 pagines 
 %% s'ha d'enquadernar a part
 %\appendix\ambportada
-\appendix\senseportada
+%\appendix\senseportada
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
