@@ -61,10 +61,13 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tocloft/tocloft.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tocloft/tocloft.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
-INPUT ./setup/drone_logo.png
-INPUT ./setup/drone_logo.png
+INPUT ./setup/drone_logo.jpg
+INPUT ./setup/drone_logo.jpg
 OUTPUT drone_manual.pdf
-INPUT ./setup/drone_logo.png
+INPUT ./setup/drone_logo.jpg
+INPUT ./setup/drone_cover.jpg
+INPUT ./setup/drone_cover.jpg
+INPUT ./setup/drone_cover.jpg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/nth/nth.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/nth/nth.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cite/cite.sty
@@ -349,6 +352,10 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/layout.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/layout.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/subfigmat/subfigmat.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/subfigmat/subfigmat.sty
+INPUT setup/dades.tex
+INPUT setup/dades.tex
+INPUT ./setup/drone_logo.jpg
+INPUT ./setup/drone_logo.jpg
 INPUT setup/user-macros.tex
 INPUT setup/user-macros.tex
 INPUT setup/hyphenation.tex
