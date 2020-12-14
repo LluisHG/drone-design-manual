@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.28)  6 DEC 2020 19:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.28)  8 DEC 2020 20:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -266,23 +266,108 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\logoLLheigh=\skip101
+\logoHeight=\skip101
+\logoWidth=\skip102
 \logoLL=\box47
-<./setup/drone_logo.jpg, id=1, 173.14688pt x 118.19156pt>
+
+! Missing number, treated as zero.
+<to be read again> 
+                   l
+l.224 }
+       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   l
+l.224 }
+       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   l
+l.224 }
+       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   l
+l.224 }
+       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   u
+l.224 }
+       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   u
+l.224 }
+       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   u
+l.224 }
+       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   u
+l.224 }
+       
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
 File: ./setup/drone_logo.jpg Graphic file (type jpg)
 <use ./setup/drone_logo.jpg>
-Package pdftex.def Info: ./setup/drone_logo.jpg  used on input line 216.
-(pdftex.def)             Requested size: 145.89153pt x 99.58464pt.
-\coverImgheight=\skip102
+Package pdftex.def Info: ./setup/drone_logo.jpg  used on input line 224.
+(pdftex.def)             Requested size: 0.0pt x 0.0pt.
+\coverImgHeight=\skip103
+\coverImgWidth=\skip104
 \coverImg=\box48
-<./setup/drone_cover.jpg, id=2, 365.86688pt x 243.91125pt>
+<./setup/drone_cover.jpg, id=1, 365.86688pt x 243.91125pt>
 File: ./setup/drone_cover.jpg Graphic file (type jpg)
 <use ./setup/drone_cover.jpg>
-Package pdftex.def Info: ./setup/drone_cover.jpg  used on input line 230.
-(pdftex.def)             Requested size: 341.4362pt x 227.62204pt.
-\Lautors=\skip103
-)
-(/usr/local/texlive/2020/texmf-dist/tex/generic/nth/nth.sty
+Package pdftex.def Info: ./setup/drone_cover.jpg  used on input line 242.
+(pdftex.def)             Requested size: 469.47046pt x 312.99806pt.
+\Lautors=\skip105
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/nth/nth.sty
 Package: nth 2002/02/27
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/cite/cite.sty
@@ -728,7 +813,7 @@ Package circuitikz Warning: You did not specify one of the voltage directions:
 
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip104
+\labelindent=\skip106
 \enit@outerparindent=\dimen303
 \enit@toks=\toks33
 \enit@inbox=\box61
@@ -763,12 +848,12 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
-\subfigtopskip=\skip105
-\subfigcapskip=\skip106
+\subfigtopskip=\skip107
+\subfigcapskip=\skip108
 \subfigcaptopadj=\dimen311
-\subfigbottomskip=\skip107
+\subfigbottomskip=\skip109
 \subfigcapmargin=\dimen312
-\subfiglabelskip=\skip108
+\subfiglabelskip=\skip110
 \c@subfigure=\count281
 \c@lofdepth=\count282
 \c@subtable=\count283
@@ -778,8 +863,8 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 * Local config file subfigure.cfg used *
 ****************************************
 (/usr/local/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure.cfg)
-\subfig@top=\skip109
-\subfig@bottom=\skip110
+\subfig@top=\skip111
+\subfig@bottom=\skip112
 )
 (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytrees.code.tex
@@ -806,16 +891,16 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \ar@mcellbox=\box64
 \extrarowheight=\dimen314
 \NC@list=\toks36
-\extratabsurround=\skip111
-\backup@length=\skip112
+\extratabsurround=\skip113
+\backup@length=\skip114
 \ar@cellbox=\box65
 )
 \everycr=\toks37
-\minrowclearance=\skip113
+\minrowclearance=\skip115
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/pbox/pbox.sty
 Package: pbox 2011/12/07 v1.2 Dynamic parboxes
-\pb@xlen=\skip114
+\pb@xlen=\skip116
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
@@ -876,7 +961,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
-\@mathmargin=\skip115
+\@mathmargin=\skip117
 
 For additional information on amsmath, use the `?' option.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -927,25 +1012,25 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \totwidth@=\dimen326
 \lineht@=\dimen327
 \@envbody=\toks44
-\multlinegap=\skip116
-\multlinetaggap=\skip117
+\multlinegap=\skip118
+\multlinetaggap=\skip119
 \mathdisplay@stack=\toks45
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
-\multirow@colwidth=\skip118
+\multirow@colwidth=\skip120
 \multirow@cntb=\count299
-\multirow@dima=\skip119
+\multirow@dima=\skip121
 \bigstrutjot=\dimen328
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
-\LTleft=\skip120
-\LTright=\skip121
-\LTpre=\skip122
-\LTpost=\skip123
+\LTleft=\skip122
+\LTright=\skip123
+\LTpre=\skip124
+\LTpost=\skip125
 \LTchunksize=\count300
 \LTcapwidth=\dimen329
 \LT@head=\box68
@@ -1148,7 +1233,7 @@ Package hyperref Info: Driver (autodetected): hpdftex.
 File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
 \Fld@listcount=\count323
 \c@bookmark@seq@number=\count324
-\Hy@SectionHShift=\skip124
+\Hy@SectionHShift=\skip126
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/layout.sty
 Package: layout 2014/10/28 v1.2c Show layout parameters
@@ -1184,15 +1269,19 @@ Package: layout 2014/10/28 v1.2c Show layout parameters
 \PositionY=\count354
 \ArrowLength=\count355
 )
+(/usr/local/texlive/2020/texmf-dist/tex/latex/eso-pic/showframe.sty
+Package: showframe 2011/02/24 v0.1i showframe (new impl., RN)
+)
 (/usr/local/texlive/2020/texmf-dist/tex/latex/subfigmat/subfigmat.sty
 Package: subfigmat 1999/02/27 v1.0 Subfigure Matrix Package
-\sfm@width=\skip125
-\sfmcolsep=\skip126
+\sfm@width=\skip127
+\sfmcolsep=\skip128
 \c@sfm@count=\count356
 )
 (./setup/dades.tex
-\logoheight=\skip127
+\logoheight=\skip129
 \logo=\box77
+<./setup/drone_logo.jpg, id=30, 173.14688pt x 118.19156pt>
 File: ./setup/drone_logo.jpg Graphic file (type jpg)
 <use ./setup/drone_logo.jpg>
 Package pdftex.def Info: ./setup/drone_logo.jpg  used on input line 110.
@@ -1349,7 +1438,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 149--149
 [1
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./setup
-/drone_logo.jpg> <./setup/drone_cover.jpg>] [2
+/drone_cover.jpg>] [2
 
 ]
 Two-sided document style, odd page.
@@ -1450,13 +1539,13 @@ Package rerunfilecheck Info: File `drone_manual.brf' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 36714 strings out of 480608
- 808937 string characters out of 5903630
- 1219527 words of memory out of 5000000
- 51858 multiletter control sequences out of 15000+600000
+ 36730 strings out of 480608
+ 809261 string characters out of 5903630
+ 1221786 words of memory out of 5000000
+ 51871 multiletter control sequences out of 15000+600000
  569772 words of font info for 101 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 60i,11n,96p,800b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,15n,96p,800b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/lcircle1.pfb></usr/
 local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb><
@@ -1465,7 +1554,7 @@ al/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texl
 ive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/202
 0/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on drone_manual.pdf (25 pages, 174229 bytes).
+Output written on drone_manual.pdf (25 pages, 161357 bytes).
 PDF statistics:
  266 PDF objects out of 1000 (max. 8388607)
  211 compressed objects within 3 object streams

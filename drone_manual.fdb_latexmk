@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex drone_manual"] 1607279698 "drone_manual.aux" "drone_manual.bbl" "drone_manual" 1607279700
+["bibtex drone_manual"] 1607279698 "drone_manual.aux" "drone_manual.bbl" "drone_manual" 1607456150
   "/usr/local/texlive/2020/texmf-dist/bibtex/bst/urlbst/unsrturl.bst" 1562101090 30451 c2d83ddb4bd4ebb47aabd62b615d2b30 ""
   "biblio.bib" 1454960191 42599 75ed8b7989500954526ec95960b1b3c8 ""
-  "drone_manual.aux" 1607279700 5306 f42546d0da6a14f63393d5b0fae6c39a "pdflatex"
+  "drone_manual.aux" 1607456150 5306 f42546d0da6a14f63393d5b0fae6c39a "pdflatex"
   (generated)
   "drone_manual.bbl"
   "drone_manual.blg"
-["pdflatex"] 1607279698 "drone_manual.tex" "drone_manual.pdf" "drone_manual" 1607279700
-  "../latex-manual-template/manual_template.cls" 1607279663 32448 7ba622c7f145bae34d4bb06a5e0a28e8 ""
+["pdflatex"] 1607456148 "drone_manual.tex" "drone_manual.pdf" "drone_manual" 1607456150
+  "../latex-manual-template/manual_template.cls" 1607456139 32740 74963f168108ad9f4c9278b1b7c57b79 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -180,6 +180,7 @@
   "/usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty" 1561238569 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty" 1526160256 11991 c1669f88e13f8bb6243df144e456b477 ""
+  "/usr/local/texlive/2020/texmf-dist/tex/latex/eso-pic/showframe.sty" 1298590725 2263 1f34f8b79f1d45bdd53367bdec31f62b ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1569190624 45259 743c52a37a6e5ed83cfe0e128b2da10d ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1548974385 11128 a53805799bebfed6358fc1658a18e41f ""
   "/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty" 1137110151 6749 16d2656a1984957e674b149555f1ea1d ""
@@ -263,11 +264,11 @@
   "chapters/introduction.tex" 1601751037 95 95e19efcfb5a0d806cdd18467fcf26cb ""
   "chapters/modeling.tex" 1601751206 1191 be30fd9ca57eb4c37f76f04b5b13c9ea ""
   "chapters/subsystems.tex" 1601751006 75 ef93a1d8f57cd44ad5d01548e3c5656f ""
-  "drone_manual.aux" 1607279700 5306 f42546d0da6a14f63393d5b0fae6c39a "pdflatex"
+  "drone_manual.aux" 1607456150 5306 f42546d0da6a14f63393d5b0fae6c39a "pdflatex"
   "drone_manual.bbl" 1607279698 49 0eba253fc001332e731e8aba3f23127b "bibtex drone_manual"
-  "drone_manual.brf" 1607279700 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "drone_manual.out" 1607279700 1189 17f4a1230a330a80e54504ac6140cdf1 "pdflatex"
-  "drone_manual.tex" 1607025037 10245 035fdb5aa9abc9e63fb71f07b5465064 ""
+  "drone_manual.brf" 1607456150 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "drone_manual.out" 1607456150 1189 17f4a1230a330a80e54504ac6140cdf1 "pdflatex"
+  "drone_manual.tex" 1607456147 10273 b4254478bc8588aafaf1dfdd4ef5419d ""
   "mcode.sty" 1447253254 11473 e3c3290432e60d7d82bde7534454793e ""
   "setup/dades.tex" 1607279559 4566 26db1fcbe014bcc90459b67622d7bf98 ""
   "setup/drone_cover.jpg" 1607279559 99767 5575de05af4fc29a1889848856b6b0b3 ""
@@ -275,8 +276,8 @@
   "setup/hyphenation.tex" 1607024202 517 ef128ea6f2b131448474de7a62110273 ""
   "setup/user-macros.tex" 1607024202 1059 9beb66721ec122ce8183c7f361648ce4 ""
   (generated)
-  "drone_manual.aux"
-  "drone_manual.out"
   "drone_manual.brf"
-  "drone_manual.log"
   "drone_manual.pdf"
+  "drone_manual.aux"
+  "drone_manual.log"
+  "drone_manual.out"
