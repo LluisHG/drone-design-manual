@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 biblio.bib
 drone_manual.aux
 drone_manual.bbl
@@ -23,3 +24,17 @@ setup/dades.log
 *.aux
 *.fls
 *.log
+=======
+llegiu_me.pdf
+biblio.bib
+
+chapters/
+appendix/
+matlab/
+
+setup/EETAC-positiu-negre.eps
+setup/EETAC-positiu-negre.png
+setup/eetac_tfc_pfc.cls
+setup/eetac_tfc_pfc2.cls
+setup/drone_cover2.jpg
+>>>>>>> 6f247821cab9f9f8f81ca5b11869e247cf3163e8

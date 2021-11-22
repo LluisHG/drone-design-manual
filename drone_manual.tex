@@ -3,10 +3,122 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \documentclass[catalan,final]{../latex-manual-template/manual_template}
+<<<<<<< HEAD
+=======
+% \usepackage{etoolbox}
+\usepackage[super]{nth}
+\usepackage[sort,nocompress]{cite}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows}
+
+\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3cm, minimum height=1cm,text centered, text width=3cm, draw=black, fill=white]
+\tikzstyle{io} = [trapezium, trapezium left angle=70, trapezium right angle=110, minimum width=3cm, minimum height=1cm, text centered, text width=2.8cm , draw=black, fill=white]
+\tikzstyle{process} = [rectangle, minimum width=3cm, minimum height=1cm, text centered, text width=3cm, draw=black, fill=white]
+\tikzstyle{decision} = [diamond, minimum width=2cm, minimum height=1cm, text centered, text width=2cm, draw=black, fill=white]
+\tikzstyle{arrow} = [thick,->,>=stealth]
+
+
+\usepackage{tikz-qtree} % Tree diagram
+\usepackage{circuitikz} % Electrical circuits
+\usepackage{enumitem}   % Introduce lists of items
+
+% \usepackage{subcaption}
+\usepackage[font={small,it},labelfont=bf]{caption}
+% \usepackage[labelfont=bf]{caption}
+\usepackage{float}
+% \usepackage{subfloat}
+
+% \usepackage{mwe}
+% \usepackage{subfigure}
+\usepackage{subfigure}
+
+\usetikzlibrary{trees}
+\usetikzlibrary{shadows}
+
+\usepackage{color, colortbl}
+\usepackage{pbox}
+\usepackage{bm} % Provide bold maths symbols
+\usepackage{graphicx}
+\graphicspath{/images/}
+\addtolength{\footnotesep}{1mm} % change to 1mm
+\interfootnotelinepenalty=10000 % Avoid to break a footnote into two different pages
+
+
+
+%% * OPCIONS A CONFIGURAR al \documentclass
+%%    - Estat del document: final o draft
+%%      NOTA: Draft no inserta les figures i marca només l'espai que
+%%      ocupen. També s'indica quan el text sobrepassa els marges.
+%%      Draft és molt útil per compilar ràpid el document si no és important
+%%      en aquell moment visualitzar les figures.
+%%    - Idioma PRINCIPAL del document: catalan, spanish, english, french...
+
+\usepackage[spanish]{babel}
+%%    NOTA: per canviar d'idioma al mig del document usar:
+%%          \selectlanguage{nom_idioma}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+>>>>>>> 6f247821cab9f9f8f81ca5b11869e247cf3163e8
 
 % Loading packages
 \input{setup/packages.tex}
 
+<<<<<<< HEAD
+=======
+\usepackage[utf8]{inputenc}
+\DeclareUnicodeCharacter{00A0}{ }
+\usepackage{amssymb,amsmath, amsfonts}  %% Símbols matemàtics de la American Mathematical Society  
+\usepackage{array}                      %% El paquet array proporciona eines molt útils a l'hora de fer equacions amb matrius       
+\usepackage{multirow}                   %% Paquet que permet fer taules fusionant cel·les de files consecutives          
+\usepackage{longtable}                  %% Paquet molt útil en cas de tenir taules molt llargues que ocupin vàries pàgines          
+\usepackage{cases}                      % Two different labeled equations (warning: tiene que ir detras de 'ansmath')
+\usepackage{tablefootnote}
+\usepackage{pdfpages}
+
+\usepackage[framed,numbered,autolinebreaks,useliterate]{mcode}
+
+
+
+%% Paquet molt útil que permet activar links en el PDF final.
+%% * NO OBLIDAR DE CONFIGURAR els quatre primer camps!
+\usepackage[
+  pdfauthor={Nom Cognoms autor},            % Configurar adientment
+  %pdftitle={Treball Fi de Carrera - autor}, % Configurar adientment
+  %pdfsubject={Titol del TFC aqui},          % Configurar adientment
+  % Modificació respecte a la versió 2.1 - Iván Padilla Montero - Juliol 2014
+  pdftitle={Treball Fi de Grau - autor}, % Configurar adientment
+  pdfsubject={Titol del TFG aqui},          % Configurar adientment  
+  pdfkeywords={keyword1, keyword2, ...},    % Configurar adientment
+  pdfcreator={EETAC-UPC}, 
+  pdfproducer={LaTeX, dvipdf},
+  pdfdisplaydoctitle=true, plainpages=false, linktocpage=true,         
+  colorlinks=true, linkcolor=blue,citecolor=blue,urlcolor=blue,
+  hyperfootnotes=false, pagebackref=true, pdfpagelabels=true,            % PARA NO PONER NUMERO DE PAGINA EN LA REFERENCIA
+  pdfpagemode=UseOutlines,
+]{hyperref} 
+
+\usepackage{layout}
+%\usepackage{showframe}
+\usepackage[export]{adjustbox}
+
+%% NOTA IMPORTANT!:
+%% Per tal que hyperef funcioni correctament amb els capitols o seccions no
+%% numerats (\chapter*{}), com per exemple introducció, conclusions i bibliografia
+%% cal posar les dues comandes seguents ABANS del \chapter*{} en questió
+%\cleardoublepage
+%\phantomsection
+
+%% Permet trencar links URL. 
+%% Atenció! afegir aquest paquet DESPRES del hyperref!!
+%\usepackage{breakurl} 
+
+%% Permet arranjar matricialment multiples figures
+%% NOTA: afegir aquest paquet DESPRES del hyperref!!
+%%       Si no es desitja utilitzar aquest paquet, comentar la linia seguent
+%%       i anar TAMBE al fitxer de classe (eetac_tfc_pfc.cls) per substituir: 
+%%       \RequirePackage[subfigure]{tocloft}  per  \RequirePackage{tocloft}
+\usepackage{subfigmat}     
+% \usepackage{showframe,subcaption}
+>>>>>>> 6f247821cab9f9f8f81ca5b11869e247cf3163e8
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 3- DOCUMENT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -85,15 +197,15 @@
 % NOTA: Si es vol incloure agraïments i/o glosari, fer-ho utilitzant 
 % \chapter*{} i incloure'ls abans la introducció
 
-\layout{}
+%\layout{}
 
 Some text here to see the typography and hello world 1
 
-\input{chapters/introduction}
-\input{chapters/modeling}
-\input{chapters/subsystems}
-\input{chapters/experimental}
-\input{chapters/conclusions}
+%\input{chapters/introduction}
+%\input{chapters/modeling}
+%\input{chapters/subsystems}
+%\input{chapters/experimental}
+%\input{chapters/conclusions}
 
 
 %%%  BIBLIOGRAFIA
@@ -114,19 +226,19 @@ Some text here to see the typography and hello world 1
 % bibtex
 % unsrturl
 
-\bibliographystyle{unsrturl}   %% Estil de bibliografia EETAC unsrt
-\cleardoublepage
-\phantomsection
+%\bibliographystyle{unsrturl}   %% Estil de bibliografia EETAC unsrt
+%\cleardoublepage
+%\phantomsection
 % Indicar aqui el(s) fitxer(s) que contenen la bibliografia
 
-\bibliography{biblio} 
-\pdfbookmark{Bibliografia}{sec:biblio}
+%\bibliography{biblio} 
+%\pdfbookmark{Bibliografia}{sec:biblio}
 
 %%% OPCIO 2: bibliografia manual
 %%%
 %%% L'argument d'entrada es el numero de referencies que s'inclouen
-\cleardoublepage
-\phantomsection
+%\cleardoublepage
+%\phantomsection
 %\begin{thebibliography}{2}
 
 %% Llibres:  Autor/s (cognoms i inicials dels noms), títol del llibre (en cursiva), editor, ciutat i any de publicació. Quan es cita el capítol d'un llibre s'ha d'indicar el títol del capítol (entre cometes), el títol del llibre (en cursiva) i els números de pàgines amb la primera i la darrera incloses.
@@ -149,7 +261,7 @@ Some text here to see the typography and hello world 1
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%                           APENDIXS                         %%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\pagestyle{empty}  % no tocar
+%\pagestyle{empty}  % no tocar
 
 %% Descomentar una de les dues línies següents, en funció de:
 %%  a) els apendixs s'encuadernaran apart (amb portada) 
@@ -164,7 +276,7 @@ Some text here to see the typography and hello world 1
 %%%%%% INCLOURE A PARTIR D'AQUI TOTS ELS CAPÍTOLS DELS APENDIXS   %%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\input{appendix/Appendixes}
+%\input{appendix/Appendixes}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

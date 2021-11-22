@@ -1,18 +1,40 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%                                                                  %%%%% 
-%%%%%%       Fitxer de dades per la memoria TFC/PFC de l'EETAC          %%%%% 
-%%%%%%                                                                  %%%%% 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%  VARIABLES A CONFIGURAR                                                  %%%
+%%                          CONFIGURATION FILE                               %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%% - Projecte o Treball de Fi de Carrera?
-%%      PFC = true   -> Projecte de Fi de Carrera
-%%      PFC = false  -> Treball  de Fi de Carrera
+
 \setboolean{manual}{true}
+
+
+%% LANGUAGE
+\setboolean{Leng}{false}
+\setboolean{Lcat}{true}
+
+
+%% TITLE
+\titol{MANUAL DE MUNTATGE D'UN QUADCOPTER}
+\titolE{QUADCOPTER DESIGN MANUAL}
+\titolC{Manual de disseny i muntatge\\ d'un quadcopter}
+\titolES{MANUAL DE DISEÑO DE UN QUADRICOPTERO}
+
+
+%% AUTHOR
+\setboolean{autor}{true}
+\autorC{Llu\´is Hontecillas Guinart}
+\autorE{Llu\´is Hontecillas Guinart}
+\autorES{Llu\´is Hontecillas Guinart}
+
+
+%% LOGO
+\setboolean{logo}{false}
+\mylogo{./setup/drone_logo.jpg}{3.5cm}
+
+
+%% COVER PAGE
+\setboolean{coverpage}{true}
+\mycoverImg{./setup/drone_cover}{16.5cm}
+
 
 %% - Escollir la titulació
 %\titulacio{Enginyeria Tècnica Aeronàutica, especialitat Aeronavegació}
@@ -24,39 +46,6 @@
 %\titulacio{Grau en Enginyeria d'Aeroports}
 %\titulacio{Grau en Enginyeria Telemàtica}
 %\titulacio{Grau en Enginyeria de Sistemes de Telecomunicació}
-
-
-%% - Configurar els idiomes del document
-%% Si l'idioma PRINCIPAL del document es l'angles, posar aquesta variable a true
-\setboolean{Leng}{false}
-
-%% Escollir entre catala i castella (idioma principial, o nomes pel resum en cas que l'idioma principal sigui anglès)
-%%  catala = true   -> idioma principal (o només resum) en Català
-%%  catala = false  -> idioma principal (o només resum) en Castella
-\setboolean{Lcat}{true}
-
-% Si les dues anteriors variables són falses, es posarà automàticament el títol en castellà
-%\setboolean{Les}{false}
-
-%% Titol del document en l'idioma principal del document 
-\titol{MANUAL DE MUNTATGE D'UN QUADCOPTER}
-
-%% Titol del document en anglès (Per l'apartat overview)
-\titolE{QUADCOPTER DESIGN MANUAL}
-
-%% Titol del document en catala/castella (Per l'apartat resum)
-\titolC{MANUAL DE DISSENY I MUNTATGE D'UN QUADCOPTER}
-\titolES{MANUAL DE DISEÑO DE UN QUADRICOPTERO}
-
-%% - Nombre d'autors del TFC/PFC?
-%%      UNautor = true   Un sol autor
-%%      UNautor = false  Més d'un autor
-\setboolean{UNautor}{true}
-
-%% - Nom del(s) Autor(s) del document
-%% NOTA: En cas de mes d'un autor cal posar la comana \and entre els
-%%        noms dels autors
-\autor{Llu\´is Hontecillas Guinart}
 
 %% - Nombre de directors del TFC/PFC. Tipicament 1 o 2
 %%      UNdirector = true   Un sol director
@@ -106,5 +95,5 @@
 %%   dreta de la portada. En aquest cas:
 %%   - posar logo=true
 %%   - posar el path de la imatge i l'alçada del logo a \mylogo
-\setboolean{logo}{false}
-\mylogo{./setup/drone_logo.jpg}{3.5cm}
+
+
